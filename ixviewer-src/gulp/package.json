@@ -12,7 +12,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gulp": "^4.0.2",
-    "gulp-cli": "^2.2.0",
+    "gulp-cli": "^2.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-csso": "^4.0.1",
     "gulp-eslint": "^6.0.0",
